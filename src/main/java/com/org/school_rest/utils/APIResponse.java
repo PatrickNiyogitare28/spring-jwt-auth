@@ -7,9 +7,6 @@ public class APIResponse {
 
     private boolean status;
 
-
-
-
     public APIResponse(String message, boolean status) {
         super();
         this.message = message;
